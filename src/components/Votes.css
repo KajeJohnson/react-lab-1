@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat&display=swap");
+
+/* .button-set1 {
+  display: flex;
+  justify-content: space-around;
+} */
+
+.vote-here {
+  font-family: "Caveat", cursive;
+}
